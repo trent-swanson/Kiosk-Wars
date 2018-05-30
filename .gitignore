@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Kiosk Wars/ProjectSettings/
+Kiosk Wars/UnityPackageManager/
+Kiosk Battle/ProjectSettings/
+Kiosk Battle/UnityPackageManager/
